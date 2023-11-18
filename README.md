@@ -1,7 +1,7 @@
 # Cookie-crafter-with-GA
 A creative cookie generator powered by genetic algorithms.
 
-## Computational Creativity Assignment 2, Leiden University November 2023
+Computational Creativity Assignment 2, Leiden University November 2023
 By Lin He, Lily Kientz, Ruilin Ma
 
 
