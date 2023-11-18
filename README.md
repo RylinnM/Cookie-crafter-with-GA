@@ -20,8 +20,8 @@ After this, you can run the implement recipe generator from top to bottom to cre
 ## GENERATING COOKIE RECIPES:
 After having generated a model, you can run the 'run recipe generator' code blocks. 
 
-First, choose and run the code blocks that define how many generations the model runs. More generations lead to a more stable but more generic cookie, while the fewer does the contrary. You can also change one of these numbers according to your liking.
+First, choose and run the code blocks that define how many generations the model runs. More generations lead to a more stable but more generic cookie, while the fewer do the contrary. You can also change one of these numbers according to your liking.
 
 Next, run the final code block. This will run the model and create a cookie recipe!
 
-*An additional code block exists to show how nutrition estimation is achieved. This is not part of the generation process. In order to do that, you need to manually calculate the amount of each components and put them in accordingly. It is for showing purpose only and the amount may not be the case that the recipe generated shows.*
+*An additional code block exists to show how nutrition estimation is achieved. This is not part of the generation process. In order to do that, you need to manually calculate the amount of each component and put them in accordingly. It is for showing purposes only and the amount may not be the case that the recipe generated shows.*
